@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tokyo Ghoul T-Shirt",
+        "categoria": "camisetas",
+        "precio": 39.96,
+        "imagen": "../assets/images/products/front-product.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Dark Oversized Hoodie",
+        "categoria": "hoodies",
+        "precio": 59.96,
+        "imagen": "../assets/images/products/front-product.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Streetwear Cap",
+        "categoria": "accesorios",
+        "precio": 19.96,
+        "imagen": "../assets/images/products/front-product.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Cyberpunk Tee",
+        "categoria": "camisetas",
+        "precio": 34.96,
+        "imagen": "../assets/images/products/front-product.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Gothic Sweatshirt",
+        "categoria": "hoodies",
+        "precio": 45.96,
+        "imagen": "../assets/images/products/front-product.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Urban Totebag",
+        "categoria": "accesorios",
+        "precio": 15.96,
+        "imagen": "../assets/images/products/front-product.png"
+    }
+]

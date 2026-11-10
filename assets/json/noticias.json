@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Nuevo Drop: Urban Gothic",
+        "resumen": "Colección inspirada en las sombras de la ciudad. Disponibilidad limitada.",
+        "imagen": "assets/images/products/front-product.png"
+    },
+    {
+        "titulo": "Limited Edition: Silent Hill",
+        "resumen": "Inspiración clásica para el estilo streetwear más puro.",
+        "imagen": "assets/images/products/back-product.png"
+    },
+    {
+        "titulo": "Streetwear Essentials",
+        "resumen": "Los básicos que tu armario necesita esta temporada.",
+        "imagen": "assets/images/products/front-product.png"
+    }
+]

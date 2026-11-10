@@ -1,0 +1,119 @@
+/*================================================================
+LOGIN STYLES
+==================================================================*/
+.main__wrapper {
+    height: 100dvh;
+    grid-template-rows: 2fr auto;
+}
+.container__login {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    border: 1px solid #e6e6e6;
+    border-radius: 0.6rem;
+}
+.container__img-logo {
+    display: flex;
+    width: 28rem;
+    height: auto;
+    padding: 2rem;
+}
+.container__img-logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+}
+.login {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 0.5rem;
+    padding: 0 2rem 2rem;
+}
+.login > span {
+    color: #707070;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    font-size: 0.9rem;
+}
+.login > span::before {
+    content: '';
+    width: 9.8rem;
+    height: 2px;
+    position: absolute;
+    top: 5;
+    left: 0;
+    background-color: #707070;
+}
+.login > span::after {
+    content: '';
+    width: 9.8rem;
+    height: 2px;
+    position: absolute;
+    top: 5;
+    right: 0;
+    background-color: #707070;
+}
+.container__login-alt {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 100%;
+    gap: 0.8rem;
+}
+.container__login-alt h1 {
+    font-size: 1.6rem;
+}
+.container__login-alt span {
+    color: #707070;
+    font-size: 0.9rem;
+}
+.container__login-alt a {
+    padding: 0.9rem 1.1rem;
+    background-color: transparent;
+    border: 1px solid #e6e6e6;
+    border-radius: 0.6rem;
+    color: #e6e6e6;
+}
+.container__login-email {
+    display: flex;
+    flex-direction: column;
+}
+.container__login-email form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+.container__login-email input,
+.container__login-email button {
+    outline: none;
+    padding: 0.9rem 1.1rem;
+    background-color: transparent;
+    border: 1px solid #e6e6e6;
+    border-radius: 0.6rem;
+    color: #e6e6e6;
+    font-family: 'Roboto Condensed', 'Fjalla One', sans-serif;
+    font-size: 1.05rem;
+}
+.container__login-email input::placeholder {
+    font-family: 'Fjalla One';
+    font-size: 1.1rem;
+}
+.container__login-email button:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.container__login-email a {
+    padding: 0.9rem 1.1rem;
+    background-color: transparent;
+    border: 1px solid #e6e6e6;
+    border-radius: 0.6rem;
+    color: #e6e6e6;
+}
+.footer {
+    margin-top: 0;
+}
