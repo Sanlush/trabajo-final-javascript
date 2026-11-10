@@ -1,7 +1,7 @@
 # trabajo-final-javascript
 
-Primer sitio Web
+Pagina web usando JavaScript y Json
 
 ## descripción
 
-Primer repositorio y pagina web, intento de pagina web para vender ropa de marca
+Pagina web de una tienda de ropa alternativa y personalizada.
